@@ -1,2 +1,11 @@
-# reactrouter-project
-react router project with search option that fetch data each time u search an item also built with context api
+#### React Router Fix
+
+(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+
+#### CRA Fix
+
+```
+
+"build": "CI= react-scripts build",
+
+```
